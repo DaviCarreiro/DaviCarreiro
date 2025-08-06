@@ -24,18 +24,19 @@ Meu nome é Davi Carreiro, tenho 17 anos e sou natural de Fortaleza (CE). Já co
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <div>
-    ### 🏆 Conquistas GitHub  
-    <img src="https://github-profile-trophy.vercel.app/?username=DaviCarreiro&theme=darkhub&no-frame=true&column=3&margin-w=15" width="320" />
-  </div>
-
-  <div>
-    ### 📊 Linguagens mais usadas  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCarreiro&layout=compact&theme=radical" width="280" />
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🏆 Conquistas GitHub</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=DaviCarreiro&theme=darkhub&no-frame=true&column=3&margin-w=15" width="400" />
+      </td>
+      <td align="center">
+        <h3>📊 Linguagens mais usadas</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCarreiro&layout=compact&theme=radical" width="300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
