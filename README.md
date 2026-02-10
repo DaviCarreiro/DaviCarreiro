@@ -2,7 +2,7 @@
 
 **Desenvolvedor FullStack**
 
-Meu nome é Davi Carreiro, tenho 17 anos e sou natural de Fortaleza (CE). Já concluí meu curso técnico em Informática, e continuo a estudar tecnologia constantemente, sempre buscando me aperfeiçoar em mais e mais linguagens.
+Meu nome é Davi Carreiro, tenho 17 anos e sou natural de Fortaleza (CE). Já concluí meu curso técnico em ADS, e continuo a estudar tecnologia constantemente, sempre buscando me aperfeiçoar em mais e mais linguagens.
 
 Mais sobre mim:https://davicarreiro.github.io/Davi/
 
