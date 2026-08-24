@@ -24,18 +24,4 @@ Mais sobre mim:https://davicarreiro.github.io/Davi/
 
 <br clear="both" />
 
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>📊 Linguagens mais usadas</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCarreiro&layout=compact&theme=radical" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
