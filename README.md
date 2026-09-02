@@ -31,13 +31,6 @@ Estudante de Ciência da Computação | Backend com Python | Aberto a oportunida
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviCarreiro&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
-
----
 
 <p align="center"><i>Aprendendo, errando e evoluindo um pouco a cada dia 💻</i></p>
 
