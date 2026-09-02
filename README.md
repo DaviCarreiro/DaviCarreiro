@@ -1,12 +1,45 @@
-# 👨🏻‍💻 Davi Carreiro
+<h1 align="center">Olá, eu sou o Davi 👋</h1>
 
-**Desenvolvedor FullStack**
+<p align="center">
+Estudante de Ciência da Computação | Backend com Python | Aberto a oportunidades de estágio
+</p>
 
-Meu nome é Davi Carreiro, tenho 17 anos e sou natural de Fortaleza (CE). Já concluí meu curso técnico em ADS, e continuo a estudar tecnologia constantemente, sempre buscando me aperfeiçoar em mais e mais linguagens.
-
-Mais sobre mim:https://davicarreiro.github.io/Davi/
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-de-almeida-carreiro-2a54b2371/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:davi.acarreiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+### 🎯 Sobre mim
+
+- 🎓 Cursando **Ciência da Computação** na Universidade Estácio de Sá
+- 🖥️ Técnico em **Análise e Desenvolvimento de Sistemas** pelo SENAI
+- 🐍 Foco em **desenvolvimento backend** com Python
+- 🚀 Buscando minha **primeira oportunidade de estágio** na área de tecnologia
+- 📍 Fortaleza, CE — disponível para trabalho presencial ou remoto
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviCarreiro&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+<p align="center"><i>Aprendendo, errando e evoluindo um pouco a cada dia 💻</i></p>
 
 ### 💼 Portfólio
 
